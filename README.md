@@ -194,7 +194,7 @@ It is **NOT secure** and should not be used in production.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 SHAH RUKH RAO
 
 Built with ❤️ in Rust to deeply learn blockchain and distributed systems.
 
